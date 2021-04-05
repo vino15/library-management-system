@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "mypassion@1997",
+    "password": "[password]",
     "database": "library_management_system",
     "host": "127.0.0.1",
     "dialect": "mysql",
